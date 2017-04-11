@@ -11,7 +11,7 @@ def dec(n):
 		return False
 	finally:
 		print "close"
-		
+		print "finally"
 
 q = dec(100)			
 print "result %s" %(q) 
