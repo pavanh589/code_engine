@@ -1,3 +1,4 @@
+#user defined exception example
 import time
 
 class Networkerror():
