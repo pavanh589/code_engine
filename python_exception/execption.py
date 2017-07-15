@@ -1,3 +1,4 @@
+#exception example
 import time
 
 def dec(n):

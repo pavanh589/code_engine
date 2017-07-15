@@ -1,3 +1,4 @@
+#raise execption example
 import time
 
 class Networkerror(RuntimeError):
